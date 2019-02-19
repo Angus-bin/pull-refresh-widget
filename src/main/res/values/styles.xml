@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <style name="loading_small" parent="@android:style/Widget.ProgressBar.Small">
+		<item name="android:layout_width">13dip</item> 
+		<item name="android:layout_height">13dip</item>
+		<item name="android:layout_gravity">center_vertical</item>
+	</style>
+</resources>

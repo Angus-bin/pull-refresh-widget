@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="pull_to_refresh_pull_label">下拉刷新</string>
+  <string name="pull_to_refresh_release_label">釋放刷新</string>
+  <string name="pull_to_refresh_refreshing_label">更新中…</string>
+  <string name="load_more_refresh_lable">加載更多</string>
+    <string name="abs__update_time">最後更新  </string>
+    <string name="abs__release_to_load">鬆開加載</string>
+    <string name="abs__removeItem">Remove</string>
+</resources>
